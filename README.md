@@ -1,3 +1,5 @@
+This generates the QR Code and renders on the OLEDDisplay
+
 Taken from https://github.com/nayuki/QR-Code-generator
     qrcodegen.c
     qrcodegen.h
