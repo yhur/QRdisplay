@@ -1,5 +1,5 @@
 #include <SSD1306.h>
-#include <qrencode.h>
+#include <qrdisplay.h>
 SSD1306  display(0x3c, 4, 5);
 
 void setup() {
